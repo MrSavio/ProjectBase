@@ -1,8 +1,6 @@
 # Unreal Project Base
 
-UE 5.4 project
-
-Required Plugins - Restart Editor
+UE 5.5 project
 
 
 ### High Concept
